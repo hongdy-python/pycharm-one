@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'month.wsgi.application'
 
 DATABASES = {
     'default': {
-        
+
     }
 }
 
