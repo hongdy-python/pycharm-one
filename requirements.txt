@@ -20,7 +20,7 @@ PyMySQL==0.9.3
 pyquery==1.4.1
 pyspider==0.3.10
 pytz==2019.3
-PyYAML==5.3.1
+PyYAML==5.4
 redis==3.0.1
 redis-py-cluster==2.0.0
 requests==2.23.0
